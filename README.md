@@ -1,2 +1,3 @@
 # test
-my test repo
+my test repo for git command repos
+
